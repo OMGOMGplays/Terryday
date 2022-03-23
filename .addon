@@ -1,0 +1,13 @@
+{
+  "Title": "Terryday",
+  "Type": "game",
+  "Org": "local",
+  "Ident": "td",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "RootNamespace": "Sandbox"
+}
